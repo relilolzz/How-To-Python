@@ -1,0 +1,17 @@
+#Learn numbers
+
+name = "number"
+#Variables and "Strings"
+
+count = 3
+#count is only counting the number said here so "3"
+actual_number = 3.15
+#The actual_number is just showing what the number fully is.
+
+math = 67 + 4 * 6 ** 4 / 50
+#Just a calculator
+
+results = count + actual_number + math
+#adds your count + actual_number + math together.
+print(results)
+#this prints all your variables and puts it out as math!
