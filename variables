@@ -1,0 +1,19 @@
+#Working on variables
+
+print("Hello, nice to meet you!\nI heard you like code also!\n")
+#Print makes a line of code using a "string".
+
+language = input("What is your favorite language?\n\n")
+#input is a textbox where you put your own "string" into a box and name is also a "string".
+
+print("\nI also like " + language + ", thank you for sharing!\n")
+#Print makes a line of code using a "string" but also uses your name you put for example "Hello World" that will be said back to you.
+
+print("What is your favorite line of code in " + language + "?")
+#Print makes a line of code using a "string" but also uses your name you put for example "Hello World" that will be said back to you.
+
+line = input()
+#the line = the text you put in textbox which inputs it there.
+
+print(line + " is also one of my favorites too!")
+#the line then gets printed into a "string".
